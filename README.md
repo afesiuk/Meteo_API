@@ -9,8 +9,8 @@ $ npm install nodemon --save
 2. Create a `.env` file in your root directory
 3. Add all required variables to the file as shown below:
 ```sh
-DB_USER=user\s\s
-DB_PASS=password\s\s
+DB_USER=user
+DB_PASS=password
 DB_ADDR=@example.code.mongodb.net/
 ```
 4. Start the server:
