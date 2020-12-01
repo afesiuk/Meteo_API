@@ -5,6 +5,7 @@
 $ npm install express --save
 $ npm install dotenv --save
 $ npm install nodemon --save
+$ npm install body-parser --save
 ``` 
 2. Create a `.env` file in your root directory
 3. Add all required variables to the file as shown below:
